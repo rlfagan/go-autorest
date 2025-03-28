@@ -3,6 +3,7 @@
 [![GoDoc](https://godoc.org/github.com/Azure/go-autorest/autorest?status.png)](https://godoc.org/github.com/Azure/go-autorest/autorest)
 [![Build Status](https://dev.azure.com/azure-sdk/public/_apis/build/status/go/Azure.go-autorest?branchName=master)](https://dev.azure.com/azure-sdk/public/_build/latest?definitionId=625&branchName=master)
 [![Go Report Card](https://goreportcard.com/badge/Azure/go-autorest)](https://goreportcard.com/report/Azure/go-autorest)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fgo-autorest.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fgo-autorest?ref=badge_shield)
 
 Package go-autorest provides an HTTP request client for use with [Autorest](https://github.com/Azure/autorest.go)-generated API client packages.
 
@@ -163,3 +164,6 @@ see the [Code of Conduct
 FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact
 [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional
 questions or comments.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fgo-autorest.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fgo-autorest?ref=badge_large)
